@@ -5,8 +5,8 @@
 // BODY - initializeQuickLinksMenu();
 
 // SLICK SLIDER STYLING
-// HEAD - designbrainedstudio/shankaracancerhospitals/blob/v0.0.3/generic_slickSlider/generic_slickSlider.css
-// BODY - designbrainedstudio/shankaracancerhospitals/blob/v0.0.3/generic_slickSlider/generic_slickSlider.js
+// HEAD - designbrainedstudio/shankaracancerhospitals/blob/v0.0.4/generic_slickSlider/generic_slickSlider.css
+// BODY - designbrainedstudio/shankaracancerhospitals/blob/v0.0.4/generic_slickSlider/generic_slickSlider.js
 
 // TESTIMONIALS SLICK SLIDER
 // BODY - initializeTestimonialList();
