@@ -9,3 +9,7 @@
 
 // TESTIMONIALS SLICK SLIDER
 // BODY - initializeTestimonialList();
+
+// PSYCHO-ONCOLOGY ASSESSMENT
+// BODY - Define Questions List
+// BODY - initializeAssessment(); in Document Ready.
